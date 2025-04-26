@@ -13,7 +13,6 @@ Read the gray and color image using imread()
 Print the image using imshow().
 
 
-
 ### Step3:
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
